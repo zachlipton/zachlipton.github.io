@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>com/lysergicjava/nfclient/netflix-java-client</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>netflix-java-client</name>
+  <created>1395185000870</created>
+  <lastModified>1395185000870</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395185000870</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

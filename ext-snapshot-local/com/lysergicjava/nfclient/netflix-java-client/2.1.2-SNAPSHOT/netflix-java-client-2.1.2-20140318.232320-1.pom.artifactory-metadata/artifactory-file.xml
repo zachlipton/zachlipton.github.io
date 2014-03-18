@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>com/lysergicjava/nfclient/netflix-java-client/2.1.2-SNAPSHOT/netflix-java-client-2.1.2-20140318.232320-1.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>netflix-java-client-2.1.2-20140318.232320-1.pom</name>
+  <created>1395185000940</created>
+  <lastModified>1395185000939</lastModified>
+  <size>8807</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395185000939</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>sha1</type>
+          <original>48a373b9f22a5ec8b25e7e5b510820ae0d9ac3bc</original>
+          <actual>48a373b9f22a5ec8b25e7e5b510820ae0d9ac3bc</actual>
+        </checksum>
+        <checksum>
+          <type>md5</type>
+          <original>bb85e011587d1b8a60128e06ac2e8254</original>
+          <actual>bb85e011587d1b8a60128e06ac2e8254</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

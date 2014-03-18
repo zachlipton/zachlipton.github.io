@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>com/lysergicjava/nfclient</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>nfclient</name>
+  <created>1395185000869</created>
+  <lastModified>1395185000869</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395185000869</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>
