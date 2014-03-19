@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lysergicjava.nfclient</groupId>
+  <artifactId>netflix-java-client</artifactId>
+  <version>2.1.2-20140319.004100-1</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140319.004100</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140319004101</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.1.2-20140319.004100-1</value>
+        <updated>20140319004100</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.1.2-20140319.004100-1</value>
+        <updated>20140319004100</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
