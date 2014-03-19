@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>net/oauth/oauth-parent/20081127</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>20081127</name>
+  <created>1395190925988</created>
+  <lastModified>1395190925988</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395190925988</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>

@@ -2,28 +2,26 @@
 <artifactory-file>
   <repoPath>
     <repoKey>ext-snapshot-local</repoKey>
-    <path>com/lysergicjava/nfclient/netflix-java-client/2.1.2-SNAPSHOT/maven-metadata.xml</path>
+    <path>net/oauth/oauth-core/maven-metadata.xml</path>
     <folder>false</folder>
   </repoPath>
   <name>maven-metadata.xml</name>
-  <created>1395189927548</created>
-  <lastModified>1395190574736</lastModified>
-  <size>782</size>
+  <created>1395190384626</created>
+  <lastModified>1395190384680</lastModified>
+  <size>335</size>
   <additionalInfo>
     <createdBy>admin</createdBy>
     <modifiedBy>admin</modifiedBy>
-    <lastUpdated>1395190574736</lastUpdated>
+    <lastUpdated>1395190384680</lastUpdated>
     <checksumsInfo>
       <checksums>
         <checksum>
           <type>md5</type>
-          <original>NO_ORIG</original>
-          <actual>1f2fae6e26616a9ac6f892689b217528</actual>
+          <actual>b65e9e8cf0da9cda8a8a0201da32435a</actual>
         </checksum>
         <checksum>
           <type>sha1</type>
-          <original>NO_ORIG</original>
-          <actual>d8aac3f6c26d72af5c3a8a1fd0b4448f7542b75e</actual>
+          <actual>ea1ea0267aa63fb64f2ee374d6de7fbb2cc3d637</actual>
         </checksum>
       </checksums>
     </checksumsInfo>

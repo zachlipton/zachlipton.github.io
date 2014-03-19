@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>net/oauth/oauth-core/20081127/oauth-core-20081127.jar</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>oauth-core-20081127.jar</name>
+  <created>1395190384552</created>
+  <lastModified>1395190384539</lastModified>
+  <size>67156</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395190384539</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>eccfc6ccf48f3f9df1a360830fa910dc</original>
+          <actual>eccfc6ccf48f3f9df1a360830fa910dc</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>447727a1abe09025a517c19e229fa3b6a4e1c899</original>
+          <actual>447727a1abe09025a517c19e229fa3b6a4e1c899</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

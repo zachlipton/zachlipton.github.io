@@ -7,21 +7,21 @@
   </repoPath>
   <name>maven-metadata.xml</name>
   <created>1395189927561</created>
-  <lastModified>1395189927611</lastModified>
+  <lastModified>1395190574799</lastModified>
   <size>340</size>
   <additionalInfo>
     <createdBy>admin</createdBy>
     <modifiedBy>admin</modifiedBy>
-    <lastUpdated>1395189927611</lastUpdated>
+    <lastUpdated>1395190574799</lastUpdated>
     <checksumsInfo>
       <checksums>
         <checksum>
           <type>md5</type>
-          <actual>e552f8ba3b0ec7cb748a023581b21f56</actual>
+          <actual>d2f97ad39806b5e74efc81f05f92fe74</actual>
         </checksum>
         <checksum>
           <type>sha1</type>
-          <actual>b7a83f08b1e55018303536b7a520c8cb4738c1db</actual>
+          <actual>0ca2b6b41032d175c9b559ac94e9b505ac2ad63f</actual>
         </checksum>
       </checksums>
     </checksumsInfo>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-file>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>net/oauth/oauth-core/20081127/oauth-core-20081127.pom</path>
+    <folder>false</folder>
+  </repoPath>
+  <name>oauth-core-20081127.pom</name>
+  <created>1395190384605</created>
+  <lastModified>1395190384604</lastModified>
+  <size>1599</size>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395190384604</lastUpdated>
+    <checksumsInfo>
+      <checksums>
+        <checksum>
+          <type>md5</type>
+          <original>44ddffeacd52c8d655018af90a966d28</original>
+          <actual>44ddffeacd52c8d655018af90a966d28</actual>
+        </checksum>
+        <checksum>
+          <type>sha1</type>
+          <original>6fa606e6cd32fd320776d8c37e0fede96f306fac</original>
+          <actual>6fa606e6cd32fd320776d8c37e0fede96f306fac</actual>
+        </checksum>
+      </checksums>
+    </checksumsInfo>
+  </additionalInfo>
+</artifactory-file>

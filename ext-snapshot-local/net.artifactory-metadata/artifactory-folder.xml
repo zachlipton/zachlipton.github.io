@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<artifactory-folder>
+  <repoPath>
+    <repoKey>ext-snapshot-local</repoKey>
+    <path>net</path>
+    <folder>true</folder>
+  </repoPath>
+  <name>net</name>
+  <created>1395190384542</created>
+  <lastModified>1395190384542</lastModified>
+  <additionalInfo>
+    <createdBy>admin</createdBy>
+    <modifiedBy>admin</modifiedBy>
+    <lastUpdated>1395190384542</lastUpdated>
+  </additionalInfo>
+</artifactory-folder>
