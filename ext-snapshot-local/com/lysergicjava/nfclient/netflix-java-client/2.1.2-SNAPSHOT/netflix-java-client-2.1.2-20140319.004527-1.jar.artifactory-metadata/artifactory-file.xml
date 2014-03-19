@@ -2,17 +2,17 @@
 <artifactory-file>
   <repoPath>
     <repoKey>ext-snapshot-local</repoKey>
-    <path>com/lysergicjava/nfclient/netflix-java-client/2.1.2-SNAPSHOT/netflix-java-client-2.1.2-20140319.004100-1.jar</path>
+    <path>com/lysergicjava/nfclient/netflix-java-client/2.1.2-SNAPSHOT/netflix-java-client-2.1.2-20140319.004527-1.jar</path>
     <folder>false</folder>
   </repoPath>
-  <name>netflix-java-client-2.1.2-20140319.004100-1.jar</name>
-  <created>1395189660988</created>
-  <lastModified>1395189660975</lastModified>
+  <name>netflix-java-client-2.1.2-20140319.004527-1.jar</name>
+  <created>1395189927504</created>
+  <lastModified>1395189927491</lastModified>
   <size>24965</size>
   <additionalInfo>
     <createdBy>admin</createdBy>
     <modifiedBy>admin</modifiedBy>
-    <lastUpdated>1395189660975</lastUpdated>
+    <lastUpdated>1395189927491</lastUpdated>
     <checksumsInfo>
       <checksums>
         <checksum>

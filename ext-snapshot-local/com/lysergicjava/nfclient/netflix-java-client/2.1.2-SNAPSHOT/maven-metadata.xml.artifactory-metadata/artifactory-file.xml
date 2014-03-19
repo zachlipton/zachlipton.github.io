@@ -6,24 +6,24 @@
     <folder>false</folder>
   </repoPath>
   <name>maven-metadata.xml</name>
-  <created>1395189661034</created>
-  <lastModified>1395189661033</lastModified>
+  <created>1395189927548</created>
+  <lastModified>1395189927547</lastModified>
   <size>782</size>
   <additionalInfo>
     <createdBy>admin</createdBy>
     <modifiedBy>admin</modifiedBy>
-    <lastUpdated>1395189661033</lastUpdated>
+    <lastUpdated>1395189927547</lastUpdated>
     <checksumsInfo>
       <checksums>
         <checksum>
           <type>md5</type>
           <original>NO_ORIG</original>
-          <actual>2c09bc4e03022a53e23f1f29ae033069</actual>
+          <actual>56018362483a83a7bbc85dbb4506f321</actual>
         </checksum>
         <checksum>
           <type>sha1</type>
           <original>NO_ORIG</original>
-          <actual>1210e8937b0a71bcb8a683d34e4572ff1d029f73</actual>
+          <actual>b9a88f9748f8a41e88a56ed2f714ca0adc677688</actual>
         </checksum>
       </checksums>
     </checksumsInfo>

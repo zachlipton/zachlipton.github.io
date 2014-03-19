@@ -287,19 +287,6 @@
 		</dependency>
 	</dependencies>
 
-	<repositories>
-		<repository>
-			<id>BLC</id>
-			<name>BLC</name>
-			<url>http://nexus.blueleftistconstructor.com/content/repositories/releases/</url>
-		</repository>
-		<repository>
-			<id>BLC</id>
-			<name>BLC</name>
-			<url>http://nexus.blueleftistconstructor.com/content/repositories/snapshots</url>
-		</repository>
-	</repositories>
-
 	<distributionManagement>
 		<repository>
 			<id>blc-deploy</id>
